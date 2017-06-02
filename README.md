@@ -7,6 +7,7 @@ This repository contains information about Apigee API Management which describes
 Following are the topics which helps to understand the basics of Apigee.
 
 -> What is Apigee and features
+
 -> What is Apigee Edge and Architecture
 -> Components of Apigee Edge
 -> Create an API Proxy
