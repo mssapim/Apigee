@@ -2,7 +2,7 @@
 
 This repository contains information about Apigee API Management which describes overview of the Apigee.
 
-# Apigee Overview:
+## Apigee Overview:
 
 Following are the topics which helps to understand the basics of Apigee.
 
@@ -14,7 +14,7 @@ Following are the topics which helps to understand the basics of Apigee.
 -> Apigee BaaS and Features
 -> API Insight and features
 
-# Technology Overview
+## Technology Overview
 
 The following are the technologies that are used in Apigee.
 
@@ -24,14 +24,14 @@ The following are the technologies that are used in Apigee.
 -> Android Studio for Push Notification
 
 
-# Repository Contents
+## Repository Contents
 
 The repository contains detailed documentation and steps for understanding and conquering this lab.
 
 -> Step-by-Step Document for completed POC's
 -> Demo for POC
 
-# Lab Contributors
+## Lab Contributors
 
 The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Apigee API Management Team.
 
