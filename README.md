@@ -1,6 +1,6 @@
 # Apigee API Management
 
-This repository contains information about Apigee API Management which describes overview of the Apigee.
+This repository contains information about Apigee API Management which describes overview of the Apigee and different technologies used in Apigee.
 
 ## Apigee Overview:
 
