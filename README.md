@@ -26,6 +26,8 @@ The following are the technologies that are used in Apigee.
 
 -> Jenkins for CI/CD
 
+-> Jenkins Release Management System
+
 -> Splunk for Log messages
 
 -> Apigee 127
